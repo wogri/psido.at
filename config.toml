@@ -11,20 +11,20 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [Params]
-  mainSections = ["post","posts","page"]
+  mainSections = ["page"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "2. January 2006"
   commit = false
   rss = true
-  comments = true
-  readingTime = true
-  wordCount = true
+  comments = false
+  readingTime = false
+  wordCount = false
   useHLJS = true
   socialShare = false
-  delayDisqus = true
-  since = "2021"
-  showRelatedPosts = true
+  delayDisqus = false
+  since = "2022"
+  showRelatedPosts = false
   hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
@@ -43,6 +43,7 @@ pygmentsCodefencesGuessSyntax = true
 [Author]
   name = "Wolfgang Hennerbichler"
   website = "psido.at"
+  address = "A-4225 Luftenberg, Österreich"
   email = "wogri@psido.at"
   facebook = "username"
   github = "username"
@@ -78,19 +79,31 @@ pygmentsCodefencesGuessSyntax = true
 #weight = 1
 
 [[menu.main]]
+    name = "Home"
+    url = "page/home/"
+    weight = 1
+
+[[menu.main]]
     name = "Funktionen"
     url = "page/funktionen/"
-    weight = 1
+    weight = 2
 
 [[menu.main]]
     name = "Preis"
     url = "page/preis/"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     name = "Kontakt"
     url = "page/kontakt/"
-    weight = 3
+    weight = 4
+
+[[menu.main]]
+    name = "Login"
+    url = "https://go.psido.at"
+    weight = 10
+    [menu.main.params]
+        class = "btn btn-success"
 
 #[[menu.main]]
 #    identifier = "samples"

@@ -6,6 +6,7 @@
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <p class="credits copyright text-muted">
+          Für den Inhalt verantwortlich: 
           {{ if .Site.Author.name }}
             {{ if .Site.Author.website }}
               <a href="{{ .Site.Author.website }}">{{ .Site.Author.name }}</a>
@@ -14,16 +15,9 @@
             {{ end }}
           {{ end }}
 
-          &nbsp;&bull;&nbsp;&copy;
-          {{ if .Site.Params.since }}
-            {{ .Site.Params.since }} - {{ .Site.LastChange.Format "2006" }}
-          {{ else }}
-            {{ .Site.LastChange.Format "2006" }}
-          {{ end }}
-
-          {{ if .Site.Title }}
+          {{ if .Site.Author.address }}
             &nbsp;&bull;&nbsp;
-            <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
+            {{ .Site.Author.address }}
           {{ end }}
         </p>
       </div>

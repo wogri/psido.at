@@ -2,7 +2,6 @@
 title: "Psido"
 subtitle: "Patientenverwaltung"
 date: 2022-08-25
-url: "/"
 ---
 
 * Keine Cookies!
