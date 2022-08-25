@@ -1,6 +1,7 @@
 baseURL = 'https://psido.at/'
 languageCode = 'de-AT'
-title = 'Psido Patientenverwaltung'
+title = 'Psido'
+subtitle= 'Patientenverwaltung'
 theme = 'beautifulhugo'
 DefaultContentLanguage = "de"
 metaDataFormat = "yaml"
@@ -10,7 +11,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [Params]
-  mainSections = ["post","posts"]
+  mainSections = ["post","posts","page"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "2. January 2006"

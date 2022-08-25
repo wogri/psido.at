@@ -1,7 +1,7 @@
 ---
 title: "Funktionen"
 subtitle: "Psido beschleunigt Ihren Arbeitsablauf"
-date: 2022-08-25
+type: "page"
 draft: false
 ---
 

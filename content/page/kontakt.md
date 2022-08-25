@@ -1,6 +1,8 @@
 ---
 title: "Kontakt"
-date: 2022-08-25
+type: "page"
+subtitle: "So erreichen Sie uns"
+# date: 2022-08-25
 ---
 
 # Kontakt
