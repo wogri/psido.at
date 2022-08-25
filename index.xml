@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Psido</title>
+    <link>https://psido.at/</link>
+    <description>Recent content on Psido</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-AT</language>
+    <managingEditor>wogri@psido.at (Wolfgang Hennerbichler)</managingEditor>
+    <webMaster>wogri@psido.at (Wolfgang Hennerbichler)</webMaster>
+    <lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://psido.at/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Psido</title>
+      <link>https://psido.at/page/home/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      <author>wogri@psido.at (Wolfgang Hennerbichler)</author>
+      <guid>https://psido.at/page/home/</guid>
+      <description>Diese Seite verwendet keine Cookies, weil wir 100% Wert auf Privatsphäre legen. Psido ist eine Software für Patientenverwaltung. Wir legen höchsten Wert auf Datenschutz, alle Ihre Daten werden verschlüsselt gespeichert sodass Dritte keinen Zugriff darauf haben.
+Psido wurde für eine selbständige Psychologin programmiert um Ihren Patientenverwaltung zu vereinfachen. Die Software auch von selbständigen Psychiatern und Diätologen verwendet. Die Zielgruppe von Psido sind selbständige Menschen in Gesundheitsberufen die eine einfache, schlanke Patientenverwaltung und Rechnungslegung brauchen.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://psido.at/posts/my-first-post/</link>
+      <pubDate>Wed, 24 Aug 2022 21:47:53 +0200</pubDate>
+      <author>wogri@psido.at (Wolfgang Hennerbichler)</author>
+      <guid>https://psido.at/posts/my-first-post/</guid>
+      <description>test</description>
+    </item>
+    
+    <item>
+      <title>Funktionen</title>
+      <link>https://psido.at/page/funktionen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>wogri@psido.at (Wolfgang Hennerbichler)</author>
+      <guid>https://psido.at/page/funktionen/</guid>
+      <description>Psido ist in jahrelanger Zusammenarbeit mit einer Psychologin entstanden und für Gesundheitsberufe optimiert. Psido ist daher eine Software die im Gesundheitsbereich nicht im Weg ist und ihre Arbeitsabläufe erheblich beschleunigt.
+Die Psido Philosphie Psido ist schnell und braucht fast nie Zeit zum Nachdenken. Psido funktioniert vollwertig auf Mobiltelefonen. Sie können unterwegs in Ihre Patientendaten angenehm lesen und bearbeiten. Wir erlauben Ihnen papierlos zu arbeiten wenn Sie das möchten. Alle Arbeitsschritte und Patientenfunktionen haben eine E-Mail Integration, sie können als Rechnungen und Abwesenheitsbestätigungen mit nur einem Klick an Ihre Patienten senden anstatt zu drucken.</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://psido.at/page/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>wogri@psido.at (Wolfgang Hennerbichler)</author>
+      <guid>https://psido.at/page/kontakt/</guid>
+      <description>Wir freuen uns dass Sie Interesse an Psido haben. Wenn Sie Interesse haben Neukunde zu werden melden Sie sich bitte hier: ich-bin-neu@psido.at
+Für allgemeine Fragen wenden Sie sich bitte an hallo@psido.at.
+Wer steckt hinter Psido? Gabriele Mayrwöger-Hennerbichler betreibt seit vielen Jahren eine psychologische Praxis in Luftenberg an der Donau. Als die Nachfrage und Zahl ihrer Patienten immer weiter stieg hatte sie das Problem dass die händische Patientendokumentation und Rechnungslegung zu zeitaufwändig wurde.</description>
+    </item>
+    
+    <item>
+      <title>Preis</title>
+      <link>https://psido.at/page/preis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>wogri@psido.at (Wolfgang Hennerbichler)</author>
+      <guid>https://psido.at/page/preis/</guid>
+      <description>Sie können Psido jederzeit ohne Angaben von Gründen kündigen, ihr Abonnement endet mit dem letzten bezahlten Monat. Psido soll nicht im Weg sein. Daher haben wir uns entschieden Psido zu einem erschwinglichen Preis zu verkaufen.
+Psido kostet 10 Euro pro Monat oder 100 Euro pro Jahr wenn Sie das Jahr im Voraus bezahlen. Sie bezahlen mittels Banküberweisung nachdem Sie eine Rechnung von uns bekommen haben. Das erste Monat ist Psido gratis.</description>
+    </item>
+    
+  </channel>
+</rss>
