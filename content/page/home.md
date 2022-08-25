@@ -4,15 +4,15 @@ subtitle: "Patientenverwaltung"
 date: 2022-08-25
 ---
 
-* Keine Cookies!
+{{< rawhtml >}}
+<div class="alert alert-success" role="alert">
+  Diese Seite verwendet keine Cookies, weil wir 100% Wert auf Privatsphäre legen.
+</div>
+{{< /rawhtml >}}
 
-Voller Datenschutz!
+Psido ist eine Software für Patientenverwaltung. Wir legen höchsten Wert auf Datenschutz, alle Ihre Daten werden verschlüsselt gespeichert sodass Dritte keinen Zugriff darauf haben.
 
-Patientenverwaltung für: 
-
-- Selbständige Psychologen
-- Selbständige Psychiater
-- Selbständige Diätologen
+Psido wurde für eine selbständige Psychologin geschrieben, jedoch wird die Software auch von selbständigen Psychiatern und Diätologen verwendet. Die Zielgruppe von Psido sind Menschen die wenig Zeit mit Patientenverwaltung und Büroarbeit verbringen wollen.
 
 ### Sicherheit zuerst!
 
