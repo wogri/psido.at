@@ -5,10 +5,11 @@ subtitle: "So erreichen Sie uns"
 # date: 2022-08-25
 ---
 
-Wir freuen uns dass Sie Interesse an Psido haben. Wenn Sie Interesse haben Neukunde zu werden melden Sie sich bitte hier:
+Wenn Sie Interesse haben Neukunde zu werden melden Sie sich bitte hier:
 ich-bin-neu@psido.at
 
-Für allgemeine Fragen wenden Sie sich bitte an hallo@psido.at.
+Für allgemeine Fragen wenden Sie sich bitte an:
+hallo@psido.at.
 
 
 {{< rawhtml >}}
