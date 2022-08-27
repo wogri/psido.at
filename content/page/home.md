@@ -12,7 +12,7 @@ date: 2022-08-25
 
 Psido ist eine Software für Patientenverwaltung. Wir legen höchsten Wert auf Datenschutz, alle Ihre Daten werden verschlüsselt gespeichert sodass Dritte keinen Zugriff darauf haben.
 
-Psido wurde für eine selbständige Psychologin programmiert um Ihren Patientenverwaltung zu vereinfachen. Die Software wird auch von selbständigen Psychiatern und Diätologen verwendet. Die Zielgruppe von Psido sind selbständige Menschen in Gesundheitsberufen die eine einfache, schlanke Patientenverwaltung und Rechnungslegung brauchen. Psido ist gedacht um Zeit zu sparen, nicht im Weg zu sein und um effizient arbeiten zu können.
+Psido wurde für eine Psychologin in freier Praxis programmiert um Ihren Patientenverwaltung zu vereinfachen. Die Software wird auch von selbständigen Psychiatern und Diätologen verwendet. Die Zielgruppe von Psido sind selbständige Menschen in Gesundheitsberufen die eine einfache, schlanke Patientenverwaltung und automatische Rechnungslegung brauchen. Psido ist gedacht um Zeit zu sparen, zu helfen und um effizient arbeiten zu können.
 
 ## Sicherheit zuerst!
 
