@@ -17,6 +17,14 @@ metaDataFormat = "yaml"
     show_contact_box = true      # show / hide the contaxt box on the homepage
     show_services_button = false # show / hide the "view all services" button
 
+  [params.alert]
+    content = "Diese Seite verwendet keine Cookies, weil wir 100% Wert auf Privatsphäre legen."
+    show = true
+
+  [params.moreinfo]
+    content = "Psido wurde für eine Psychologin in freier Praxis programmiert um Ihren Patientenverwaltung zu vereinfachen. Die Zielgruppe von Psido sind selbständige Menschen in Gesundheitsberufen die eine einfache, schlanke Patientenverwaltung und automatische Rechnungslegung brauchen. Psido ist gedacht um zu helfen, Zeit zu sparen und um sich auf die eigentliche Arbeit zu konzentrieren."
+    show = true
+
   [params.logo]
     mobile = "images/logo/logo-mobile.svg"
     mobile_height = "36px"
@@ -67,12 +75,12 @@ metaDataFormat = "yaml"
     weight = 2
 
   [[menu.main]]
-    name = "About"
+    name = "Über uns"
     url = "/about/"
     weight = 3
 
   [[menu.main]]
-    name = "Contact"
+    name = "Kontakt"
     url = "/contact/"
     weight = 4
 
@@ -83,7 +91,7 @@ metaDataFormat = "yaml"
     weight = 1
 
   [[menu.footer]]
-    name = "Contact"
+    name = "Kontakt"
     url = "/contact/"
     weight = 2
 
