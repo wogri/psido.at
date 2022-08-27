@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Verschlüsselung aller Daten",
+    "description": "Alle ihre Daten sind verschlüsselt gespeichert und dritte können sie nicht einsehen.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Integrierte Rechnungslegung",
+    "description": "Mit nur wenigen Klicks generieren Sie eine Rechnung für Ihre Patienten.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Patientendokumentation",
+    "description": "Dokumentieren und lesen Sie die Sitzungen mit Ihren Patienten mühelos.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]

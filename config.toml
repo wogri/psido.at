@@ -22,7 +22,7 @@ metaDataFormat = "yaml"
     show = true
 
   [params.moreinfo]
-    content = "Psido wurde für eine Psychologin in freier Praxis programmiert um Ihren Patientenverwaltung zu vereinfachen. Die Zielgruppe von Psido sind selbständige Menschen in Gesundheitsberufen die eine einfache, schlanke Patientenverwaltung und automatische Rechnungslegung brauchen. Psido ist gedacht um zu helfen, Zeit zu sparen und um sich auf die eigentliche Arbeit zu konzentrieren."
+    content = "Psido wurde für eine Psychologin in freier Praxis programmiert um Ihren Patientenverwaltung zu vereinfachen. Die Zielgruppe von Psido sind selbständige Menschen in Gesundheitsberufen die eine einfache, schlanke Patientenverwaltung und automatische Rechnungslegung brauchen. Psido ist gedacht um zu helfen, Zeit zu sparen und um sich auf die Arbeit mit Menschen zu konzentrieren."
     show = true
 
   [params.logo]
