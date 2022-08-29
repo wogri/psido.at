@@ -70,13 +70,13 @@ metaDataFormat = "yaml"
     weight = 1
 
   [[menu.main]]
-    name = "Team"
-    url = "/team/"
+    name = "Preis"
+    url = "/price/"
     weight = 2
 
   [[menu.main]]
     name = "Über uns"
-    url = "/about/"
+    url = "/team/"
     weight = 3
 
   [[menu.main]]

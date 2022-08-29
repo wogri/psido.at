@@ -1,10 +1,15 @@
 ---
-title: 'Team'
-intro_image: "images/team/smartworks-coworking-cW4lLTavU80-unsplash.jpg"
+title: 'Über uns'
+intro_image: "/images/team/team.jpg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Gabriele & Wolfgang
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+[Gabriele Mayrwöger-Hennerbichler](https://www.mayrwoeger.com) betreibt seit vielen Jahren eine psychologische Praxis in Luftenberg an der Donau. 
+Als die Nachfrage und Zahl ihrer Patienten immer weiter stieg wurde die händische Patientendokumentation und Rechnungslegung zu zeitaufwändig.
+
+Ihr Mann, der Programmierer [Wolfgang Hennerbichler](https://www.wogri.at/about/wogri/) hat daraufhin Psido entwickelt. Er stelle Psido auf breitere Beine und gründete einen Betrieb dahinter, mit der Motivation selbständigen Menschen im Gesundheitsbereich zu helfen. 
+
+Daher verkaufen wir Psido auch zu einem fairen Preis. Wir wollen mit Psido auch den Menschen helfen, die sich psychologische Hilfe nicht leisten können indem wir einen Teil des Gewinns von Psido an bedürftige Menschen verteilen.
