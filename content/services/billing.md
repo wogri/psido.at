@@ -32,4 +32,4 @@ Eine Übersicht aller erstellten Rechnungen kann in einer `.xlsx` Datei herunter
 
 ## Mahnungen
 
-Wenn Sie keinen Zahlungseingang Ihrer Patienten feststellen können gibt Ihnen Psido eine einfache Möglichkeit Mahnungen per E-Mail zu versenden, sehr ähnlich der Rechnungslegung. Sie könenn den Text der Mahnung frei definieren.
+Wenn Sie keinen Zahlungseingang Ihrer Patienten feststellen können gibt Ihnen Psido eine einfache Möglichkeit Mahnungen per E-Mail zu versenden, sehr ähnlich der Rechnungslegung. Sie können den Text der Mahnung frei definieren.
