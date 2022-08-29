@@ -3,14 +3,16 @@
 {{ define "main" }}
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
   <div class="row justify-content-start">
-    <div class="col-12 col-md-8">
+    <div class="col-12 col-md-10">
       <div class="service service-single">
         <h1 class="title">{{.Title}}</h1>
         <div class="content">{{.Content}}</div>
-        {{ if .Params.image }}
+        {{ if .Params.images }}
+        {{ range .Params.images }}
         <div class="content">
-          <img src="{{ .Params.image }}" class="img-fluid" alt="Responsive image">
+          <img src="{{ . }}" class="img-fluid shadow p-3 mb-5 bg-white rounded" alt="Responsive image">
         </div>
+        {{ end }}
         {{ end }}
       </div>
     </div>

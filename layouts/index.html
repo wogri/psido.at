@@ -21,6 +21,21 @@
   </div>
 </div>
 
+{{ if .Site.Params.alert.show }}
+<div class="stripix">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-10 col-lg-10">
+        <div class="alert alert-secondary" role="alert">
+          {{ .Site.Params.alert.content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+
+
 <div class="strip">
   <div class="container">
     {{ if .Site.Params.moreinfo.show }}
@@ -57,20 +72,6 @@
   </div>
 </div>
 {{end}}
-
-{{ if .Site.Params.alert.show }}
-<div class="strip">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-12 col-md-10 col-lg-10">
-        <div class="alert alert-secondary" role="alert">
-          {{ .Site.Params.alert.content }}
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-{{ end }}
 
 {{if .Site.Data.features}}
 <div class="strip strip-grey">
