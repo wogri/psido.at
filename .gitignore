@@ -16,3 +16,7 @@
 
 public/
 resources/
+
+.DS_Store
+.hugo_build.lock
+.vscode/
