@@ -1,8 +1,8 @@
 ---
-title: "Integrierte Hilfe"
+title: "Eingebaute Hilfe"
 date: 2022-08-27
 draft: false
-featured: true
+featured: false
 weight: 40
 ---
 
