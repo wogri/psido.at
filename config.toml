@@ -83,6 +83,13 @@ metaDataFormat = "yaml"
     name = "Kontakt"
     url = "/contact/"
     weight = 4
+    
+  [[menu.main]]
+    name = "Login"
+    url = "https://go.psido.at"
+    weight = 5
+    [menu.main.params]
+        class = "btn btn-light"
 
   # Footer Menu
   [[menu.footer]]
@@ -95,31 +102,7 @@ metaDataFormat = "yaml"
     url = "/contact/"
     weight = 2
 
-
-#
-#[[menu.main]]
-#    name = "Home"
-#    url = "page/home/"
-#    weight = 1
-#
-#[[menu.main]]
-#    name = "Funktionen"
-#    url = "page/funktionen/"
-#    weight = 2
-#
-#[[menu.main]]
-#    name = "Preis"
-#    url = "page/preis/"
-#    weight = 3
-#
-#[[menu.main]]
-#    name = "Kontakt"
-#    url = "page/kontakt/"
-#    weight = 4
-#
-#[[menu.main]]
-#    name = "Login"
-#    url = "https://go.psido.at"
-#    weight = 10
-#    [menu.main.params]
-#        class = "btn btn-success"
+  [[menu.footer]]
+    name = "Login"
+    url = "https://go.psido.at"
+    weight = 3
