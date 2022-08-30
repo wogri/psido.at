@@ -3,7 +3,7 @@ title: 'Preis'
 date: 2022-08-30
 ---
 
-Psido hilft Ihnen beim Helfen. Daher haben wir uns entschieden Psido zu einem erschwinglichen Preis zu verkaufen.
+Psido hilft Ihnen beim Helfen. Und weil wir wollen dass es den Menschen gut geht haben wir uns entschieden Psido zu einem erschwinglichen Preis zu verkaufen.
 
 Psido kostet **10€ pro Monat** oder **100€ pro Jahr**. Sie bezahlen mittels Banküberweisung nachdem Sie eine Rechnung von uns bekommen haben. Das erste Monat ist Psido gratis.
 
