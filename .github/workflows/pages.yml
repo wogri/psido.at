@@ -40,6 +40,9 @@ jobs:
         uses: actions/checkout@v3
         with:
           submodules: recursive
+      - name: copy scss files for theme support
+        run: |
+          cp assets/scss/style.scss themes/hugo-serif-theme/assets/scss/ && cp assets/scss/components/_headerlogo.scss themes/hugo-serif-theme/assets/scss/components/
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v2

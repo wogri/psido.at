@@ -6,7 +6,7 @@ featured: true
 weight: 1
 ---
 
-Psido wurde entwickelt um zu helfen. Auf folgende Punkte haben wir uns Hauptaugenmerk gelegt:
+Psido wurde entwickelt um zu Ihnen helfen. Auf folgende Punkte haben wir uns Hauptaugenmerk gelegt:
 
 - Psido ist sehr einfach zu benutzen.
 - Psido ist sicher.
