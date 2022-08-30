@@ -3,7 +3,7 @@ title: "Berichte"
 date: 2022-08-27
 draft: false
 featured: true
-images: ["/screenshots/report_generate.png", "/screenshots/report_pdf.png"]
+images: ["screenshots/report_generate.png", "screenshots/report_pdf.png"]
 weight: 35
 ---
 

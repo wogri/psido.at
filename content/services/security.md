@@ -3,7 +3,7 @@ title: "Hohe Sicherheit"
 date: 2022-08-30
 draft: false
 featured: true
-images: ["/screenshots/encryption.png"]
+images: ["screenshots/encryption.png"]
 weight: 25
 ---
 

@@ -3,7 +3,7 @@ title: "Diktierfunktion"
 date: 2022-08-27
 draft: false
 featured: false
-images: ["/screenshots/dictate.png"]
+images: ["screenshots/dictate.png"]
 weight: 35
 ---
 

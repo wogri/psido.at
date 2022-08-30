@@ -3,7 +3,7 @@ title: "Verwaltung von Stammdaten"
 date: 2022-08-27
 draft: false
 featured: true
-images: ["/screenshots/family.png", "/screenshots/patients.png", "/screenshots/patient.png", "/screenshots/search.png"]
+images: ["screenshots/family.png", "screenshots/patients.png", "screenshots/patient.png", "screenshots/search.png"]
 weight: 10
 ---
 

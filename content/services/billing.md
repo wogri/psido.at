@@ -3,7 +3,7 @@ title: "Integrierte Rechnungslegung"
 date: 2022-08-27
 draft: false
 featured: true
-images: ["/screenshots/bill_form.png", "/screenshots/bill.png"]
+images: ["screenshots/bill_form.png", "screenshots/bill.png"]
 weight: 20
 ---
 

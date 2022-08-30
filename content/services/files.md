@@ -3,7 +3,7 @@ title: "Dateianhänge"
 date: 2022-08-27
 draft: false
 featured: true
-images: ["/screenshots/file_session.png", "/screenshots/file_patient.png"]
+images: ["screenshots/file_session.png", "screenshots/file_patient.png"]
 weight: 30
 ---
 

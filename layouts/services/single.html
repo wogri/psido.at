@@ -10,7 +10,7 @@
         {{ if .Params.images }}
         {{ range .Params.images }}
         <div class="content">
-          <img src="{{ . }}" class="img-fluid shadow p-3 mb-5 bg-white rounded" alt="Responsive image">
+          <img src="{{ . | relURL }}" class="img-fluid shadow p-3 mb-5 bg-white rounded" alt="Responsive image">
         </div>
         {{ end }}
         {{ end }}
