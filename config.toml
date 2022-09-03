@@ -86,7 +86,7 @@ metaDataFormat = "yaml"
     
   [[menu.main]]
     name = "Login"
-    url = "https://go.psido.at"
+    url = "https://do.psido.at"
     weight = 5
     [menu.main.params]
         class = "btn btn-light"
@@ -104,5 +104,5 @@ metaDataFormat = "yaml"
 
   [[menu.footer]]
     name = "Login"
-    url = "https://go.psido.at"
+    url = "https://do.psido.at"
     weight = 3
