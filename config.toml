@@ -85,7 +85,7 @@ metaDataFormat = "yaml"
     weight = 4
     
   [[menu.main]]
-    name = "Login"
+    name = "Anmelden"
     url = "https://do.psido.at"
     weight = 5
     [menu.main.params]
@@ -103,6 +103,6 @@ metaDataFormat = "yaml"
     weight = 2
 
   [[menu.footer]]
-    name = "Login"
+    name = "Anmelden"
     url = "https://do.psido.at"
     weight = 3
