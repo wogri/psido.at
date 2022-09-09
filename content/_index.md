@@ -7,7 +7,11 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Psido
+{{< rawhtml >}}
+<h1>
+  <span style="color: black;">Psi</span><span style="color: #4050B5;">do</span>
+</h1>
+{{< /rawhtml >}}
 ## Software für Patientenverwaltung
 
 Psido ist eine Software für Patientenverwaltung. Wir legen höchsten Wert auf Datenschutz, alle Ihre Daten werden verschlüsselt gespeichert sodass Dritte keinen Zugriff darauf haben.
