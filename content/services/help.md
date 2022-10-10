@@ -6,4 +6,4 @@ featured: false
 weight: 40
 ---
 
-Alle Punkte die nicht selbsterklärend sind haben eine eingebaute Hilfe. Fahren Sie einfach mit der Maus über das Feld das Ihnen unklar ist, und es poppt automatisch eine Erklärung auf.
+Alle Punkte die nicht selbsterklärend sind, haben eine eingebaute Hilfe. Bewegen Sie den Mauscursor über das unklaren Begriff und es öffnet sich automatisch eine Erklärung.
