@@ -10,4 +10,4 @@ promoted: true
 weight: 2
 ---
 
-Wolfgang ist Programmierer und Systemadministrator. Die Erfahrung die er in seiner Zeit als Angestellter bei Google und Microsoft sammeln durfte ist in Psido eingeflossen.
+Wolfgang ist Programmierer und Systemadministrator. Die Erfahrung, die er in seiner Zeit als Angestellter bei Google und Microsoft sammeln durfte, ist in Psido eingeflossen.

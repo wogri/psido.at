@@ -9,4 +9,4 @@ promoted: true
 weight: 1
 ---
 
-Gabriele ist Psychologin in freier Praxis seit 2010. Ihre Erfahrung und Anforderungen an eine Patientenverwaltung machen Psido zu dem was es heute ist - Psido hilft täglich, mehr Patienten behandeln zu können.
+Gabriele ist Psychologin in freier Praxis seit 2010. Ihre Erfahrung und Anforderungen an eine PatientInnenverwaltung machen Psido zu dem was es heute ist - Psido hilft täglich, mehr PatientInnen behandeln zu können.
