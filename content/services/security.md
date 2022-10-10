@@ -17,4 +17,4 @@ Psido ist eine Web-App, das bedeutet, dass Sie sich nicht um Software Updates k�
 
 Wir erledigen die Datensicherung aller Ihrer Daten automatisch für Sie. Ihre Daten sind also auch vor Katastrophen geschützt, da wir sie zwischen Standorten in der EU spiegeln. 
 
-Kurzum: **Sie bekommen ein Sorglos-Paket für Ihre Patientenverwaltung**.
+Kurzum: **Sie bekommen ein Sorglos-Paket für Ihre PatientInnenverwaltung**.

@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = 'de-AT'
 title = 'Psido'
-subtitle= 'Patientenverwaltung'
+subtitle= 'PatientInnenverwaltung'
 theme = "hugo-serif-theme"
 DefaultContentLanguage = "de"
 metaDataFormat = "yaml"
@@ -22,7 +22,7 @@ metaDataFormat = "yaml"
     show = true
 
   [params.moreinfo]
-    content = "Psido wurde für eine Psychologin in freier Praxis programmiert um Ihren Patientenverwaltung zu vereinfachen. Die Zielgruppe von Psido beeinhaltet selbständige Menschen in Gesundheitsberufen die eine einfache, schlanke Patientenverwaltung und automatische Rechnungslegung brauchen. Psido hilft Ihnen beim Helfen und spart Ihnen Zeit damit Sie sich auf die Arbeit mit Menschen konzentrieren können."
+    content = "Psido wurde für eine Psychologin in freier Praxis programmiert um ihre PatientInnenverwaltung zu vereinfachen. Die Zielgruppe von Psido beeinhaltet selbständige Menschen in Gesundheitsberufen die eine einfache, schlanke PatientInnenverwaltung und automatische Rechnungslegung brauchen. Psido hilft Ihnen beim Helfen und spart Ihnen Zeit damit Sie sich auf die Arbeit mit Menschen konzentrieren können."
     show = true
 
   [params.logo]
