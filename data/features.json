@@ -1,17 +1,17 @@
 [
   {
     "title": "Verschlüsselung aller Daten",
-    "description": "Alle ihre Daten sind verschlüsselt gespeichert und dritte können sie nicht einsehen.",
+    "description": "Alle Ihre Daten sind verschlüsselt gespeichert und Dritte können sie nicht einsehen.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
     "title": "Integrierte Rechnungslegung",
-    "description": "Mit nur wenigen Klicks generieren Sie eine Rechnung für Ihre Patienten.",
+    "description": "Mit nur wenigen Klicks generieren Sie eine Rechnung für Ihre PatientInnen.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
     "title": "Patientendokumentation",
-    "description": "Dokumentieren und lesen Sie die Sitzungen mit Ihren Patienten mühelos.",
+    "description": "Dokumentieren und lesen Sie die Sitzungen Ihrer PatientInnen mühelos.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]

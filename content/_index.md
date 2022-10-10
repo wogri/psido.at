@@ -14,7 +14,7 @@ intro_image_hide_on_mobile: true
 {{< /rawhtml >}}
 ## Software für Patientenverwaltung
 
-Psido ist eine Software für Patientenverwaltung. Wir legen höchsten Wert auf Datenschutz, alle Ihre Daten werden verschlüsselt gespeichert sodass Dritte keinen Zugriff darauf haben.
+Psido ist eine Software zur Patientenverwaltung. Wir legen höchsten Wert auf Datenschutz. Alle Ihre Daten werden verschlüsselt gespeichert, sodass Dritte keinen Zugriff darauf haben.
 
 
 <!--
