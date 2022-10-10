@@ -11,5 +11,5 @@ Psido hilft Ihnen beim Helfen. Auf folgende Punkte haben wir unser Hauptaugenmer
 - Psido ist sehr einfach zu benutzen.
 - Psido ist sicher.
 - Psido ist schnell. 
-- Psido funktioniert vollwertig auf Mobiltelefonen. Sie können unterwegs Ihre Patientendaten angenehm lesen und bearbeiten.
-- Wir erlauben Ihnen papierlos zu arbeiten, wenn Sie das möchten. Alle Arbeitsschritte und Patientenfunktionen haben eine E-Mail Integration. Sie können Rechnungen und Abwesenheitsbestätigungen mit nur einem Klick an Ihre Patienten senden anstatt zu drucken.
+- Psido funktioniert vollwertig auf Mobiltelefonen. Sie können unterwegs Ihre PatientInnendaten angenehm lesen und bearbeiten.
+- Wir erlauben Ihnen papierlos zu arbeiten, wenn Sie das möchten. Alle Arbeitsschritte und PatientInnenfunktionen haben eine E-Mail Integration. Sie können Rechnungen und Abwesenheitsbestätigungen mit nur einem Klick an Ihre PatientInnen senden anstatt zu drucken.
